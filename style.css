@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+:root {
+    /*color scheme*/
+    /*lightest color to darkest*/
+    --blue-050:#8A91EF;
+    --white-050:#ECECFB;
+    --gray-050:#B4B5B8;
+    --gray-100:#ACACAC;
+}
+
+/*default styles*/
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+
